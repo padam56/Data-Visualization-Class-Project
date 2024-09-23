@@ -56,10 +56,11 @@ Features:
 Plots:
 
 ![Plot 1](plots/image1.png)
-![Plot 2](plots/image2.png) 
-![Plot 3](plots/image3.png)
+![Plot 2](plots/image2.png)
+![Plot 3](plots/image3.png) 
 ![Plot 4](plots/image4.png)
 ![Plot 5](plots/image5.png)
+![Plot 6](plots/image6.png)
 
 Contributors:
 - Padam Jung Thapa (University of New Orleans)
