@@ -53,6 +53,13 @@ Features:
 - Customizable Parameters: Select among different variables, projection types, and visualization techniques.
 - Geographical Filtering: Adjust latitude and longitude ranges to focus on specific areas.
 
+Plots:
+
+![Plot 1](plots/image1.png)
+![Plot 2](plots/image2.png) 
+![Plot 3](plots/image3.png)
+![Plot 4](plots/image4.png)
+![Plot 5](plots/image5.png)
 
 Contributors:
 - Padam Jung Thapa (University of New Orleans)
